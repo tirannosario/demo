@@ -1,7 +1,7 @@
 {
   "users": [
-    { "mail": 1, "pwd": "Post 1" },
-    { "mail": 2, "pwd": "Post 2" },
-    { "mail": 3, "pwd": "Post 3" }
+    { "mail": "rosario@gmail.com", "pwd": "ciao" },
+    { "mail": "giulio@cesare.it", "pwd": "daje00" },
+    { "mail": "obiwan@jedi.com", "pwd": "HelloThere" }
   ]
 }
