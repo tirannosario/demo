@@ -1,7 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    { "mail": 1, "pwd": "Post 1" },
+    { "mail": 2, "pwd": "Post 2" },
+    { "mail": 3, "pwd": "Post 3" }
   ]
 }
