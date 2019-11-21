@@ -2,6 +2,6 @@
   "posts": [
     { "mail": "rosario@gmail.com", "pwd": "ciao" },
     { "mail": "giuliocesare@roma.it", "pwd": "daje86" },
-    { "mail": "obiwan@jedi.com", "pwd": "HelloThere" },
+    { "mail": "obiwan@jedi.com", "pwd": "HelloThere" }
   ]
 }
