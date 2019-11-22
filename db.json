@@ -3,5 +3,8 @@
     { "mail": "rosario@gmail.com", "pwd": "ciao" },
     { "mail": "giulio@cesare.it", "pwd": "daje00" },
     { "mail": "obiwan@jedi.com", "pwd": "HelloThere" }
-  ]
+  ],
+  "materie" : [
+    "Fisica","Matematica","Storia","Analisi","Filosofia","Latino"
+    ]
 }
