@@ -14,6 +14,10 @@
     {"nomeProf": "Bill Gates", "Materia": "Scienze", "data": "13/04/2020 - 10:00", "descr": "Porta un cornetto al cioccolato"},
     {"nomeProf": "Linus Torvalds", "Materia": "Informatica", "data": "17/04/2020 - 17:00", "descr": "Porta il Makefile del cornetto alla marmellata"},
     {"nomeProf": "George Orwell", "Materia": "Inglese", "data": "25/04/2020 - 11:00", "descr": "2+2=5"}
-
+  ],
+  "ripetizioni_prenotate":[
+    {"nomeProf": "Giovanni Morandi", "Materia": "Fisica", "data": "16/04/2020 - 12:00", "descr": "Vai a prendere il latte"},
+    {"nomeProf": "Matteo Viale", "Materia": "Analisi", "data": "06/04/2020 - 18:00", "descr": "2+2=4"},
+    {"nomeProf": "Steve Jobs", "Materia": "Storia", "data": "23/04/2020 - 09:00", "descr": "Porta un cornetto alla crema"}
   ]
 }
