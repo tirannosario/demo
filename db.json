@@ -13,7 +13,7 @@
       "surname": "Kenobi",
       "cellular": "012546789",
       "email": "kenobi@jedi.gov",
-      "photo": "",
+      "photo": "https://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Old-Obi-Wan-icon.png",
       "favorite": true
      },
      { 
@@ -21,7 +21,7 @@
       "surname": "Skywalker",
       "cellular": "66632167",
       "email": "vader@sith.gov",
-      "photo": "",
+      "photo": "https://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Anakin-Jedi-02-icon.png",
       "favorite": false
      },
      { 
@@ -29,8 +29,8 @@
       "surname": "Organa",
       "cellular": "56732145",
       "email": "princessleila@rebel.com",
-      "photo": "",
-      "favorite": true
+      "photo": "https://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Leia-icon.png",
+      "favorite": false
      }
   ]
 }
