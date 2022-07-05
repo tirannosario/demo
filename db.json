@@ -5,7 +5,8 @@
       "surname": "Galioto",
       "cellular": "3324332216",
       "email": "glt.rosario@gmail.com",
-      "photo": "",
+      "onlinePic": true,
+      "photo": "https://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/R2D2-02-icon.png",
       "favorite": true
      },
      { 
@@ -13,6 +14,7 @@
       "surname": "Kenobi",
       "cellular": "012546789",
       "email": "kenobi@jedi.gov",
+      "onlinePic": true,
       "photo": "https://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Old-Obi-Wan-icon.png",
       "favorite": true
      },
@@ -21,6 +23,7 @@
       "surname": "Skywalker",
       "cellular": "66632167",
       "email": "vader@sith.gov",
+      "onlinePic": true,
       "photo": "https://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Anakin-Jedi-02-icon.png",
       "favorite": false
      },
@@ -29,6 +32,7 @@
       "surname": "Organa",
       "cellular": "56732145",
       "email": "princessleila@rebel.com",
+      "onlinePic": true,
       "photo": "https://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Leia-icon.png",
       "favorite": false
      }
